@@ -11,4 +11,4 @@ How to use :
 2. The output should be an ASCII, it can be used to generate DTMF
 3. Using DTMF generator (like Cool Edit Pro 2.1), generate the DTMF based on ASCII that have been created
 4. Save the generated DTMF as .wav
-5. To decrypt the .wav, use Decyrpt_Vigenere.py
+5. To decrypt the .wav, use DTMF_Decrypt.py
