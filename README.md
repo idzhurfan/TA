@@ -4,6 +4,7 @@
 - Cool Edit Pro 2.1 DTMF generate limited to 22kHz
 
 Its a program that does encryption of text into ASCII types, so it can be used to generate DTMF (DTMF contain a tone number of 1234567890#*).
+
 Current projects is using third-parties software of Cool Edit Pro 2.1 to generate the DTMF.
 
 How to use :
